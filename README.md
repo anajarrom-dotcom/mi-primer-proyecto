@@ -1,2 +1,2 @@
 # mi-primer-proyecto
-practica 1
+Este es un proyecto de practica para aprender de git y github
